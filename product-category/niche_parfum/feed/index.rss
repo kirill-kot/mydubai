@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Нишевая парфюмерия &#8211; My Dubai</title>
+	<atom:link href="http://mydubaiparfum.ru/product-category/niche_parfum/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mydubaiparfum.ru</link>
+	<description>Арабская парфюмерия</description>
+	<lastBuildDate>Tue, 02 Jul 2019 15:20:11 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.6</generator>
+	<item>
+		<title>Al Dahab Al Sael</title>
+		<link>http://mydubaiparfum.ru/product/al-dahab-al-sael/</link>
+		<pubDate>Tue, 21 May 2019 08:24:41 +0000</pubDate>
+		<dc:creator><![CDATA[mdAdmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://mydubaiparfum.ru/?post_type=product&#038;p=247</guid>
+		<description><![CDATA[Чарующий, роскошный восточный аромат!]]></description>
+				<content:encoded><![CDATA[<p>Чарующий, роскошный восточный аромат!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Товары &#8211; My Dubai</title>
+	<atom:link href="http://mydubaiparfum.ru/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mydubaiparfum.ru</link>
+	<description>Арабская парфюмерия</description>
+	<lastBuildDate>Tue, 02 Jul 2019 15:20:11 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.6</generator>
+	<item>
+		<title>Sacrifice</title>
+		<link>http://mydubaiparfum.ru/product/sacrifice/</link>
+		<pubDate>Wed, 22 May 2019 11:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[mdAdmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://mydubaiparfum.ru/?post_type=product&#038;p=263</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
